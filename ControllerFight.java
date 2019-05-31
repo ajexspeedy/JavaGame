@@ -48,7 +48,7 @@ public class ControllerFight {
 		hero.strengthCapacity();
 	
 		
-		Weapon weapon = new Weapon(12, "Sword of Justice");
+		Weapon weapon = new Weapon(12, "Sword of Jus tice");
 		Armor armor = new Armor(123456,1, "Light armor",  5.00);
 		Armor armor2  = new Armor(789101,2,"Medium armor", 8.00);
 		weapon.setDamage(205);
