@@ -1,4 +1,4 @@
-package rpg4;
+package JavaGame;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package rpg4;
+package JavaGame;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;

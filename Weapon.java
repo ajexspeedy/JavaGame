@@ -1,4 +1,4 @@
-package rpg4;
+package JavaGame;
 
 public class Weapon extends Item{
 
